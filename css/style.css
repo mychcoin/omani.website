@@ -39,7 +39,7 @@ body a{
 .top-header{
 }
 .top-nav ul li a{
-	color: #202242;
+	color: #8BC34A;
 	padding: 0.2em 1em;
 	font-size: 1.05em;
 	font-weight: 400;
@@ -50,7 +50,7 @@ body a{
 }
 .top-nav ul li.active a,
 .top-nav ul li a:hover{
-	color:#ffe13e;
+	color:#0288D1;
 }
 .logo a{
 	display:block;
@@ -176,7 +176,7 @@ nav a#pull {
 	border-left: 1px solid #EEE;
 }
 .contact-info p{
-	color: #202242;
+	color: #8BC34A;
 	font-weight: 600;
 	font-size: 0.75em;
 	margin-bottom: 14px;
@@ -195,18 +195,18 @@ nav a#pull {
 	border-left:1px solid #EEE;
 }
 a.chat{
-	background:#ffe13e;
-	color:#202242;
+	background:#0288D1;
+	color:#8BC34A;
 	padding:0.8em 1.5em;
 	font-weight:600;
 	text-decoration:none;
 }
 a.chat:hover{
-	color:#ffe13e;
-	background:#202242;
+	color:#0288D1;
+	background:#8BC34A;
 }
 .contact-info-right h3{
-	color:#202242;
+	color:#8BC34A;
 	font-family: 'Lato', sans-serif;
 	font-weight:700;
 	margin:0;
@@ -253,7 +253,7 @@ a.chat:hover{
 	width: 100%;
 	outline: none;
 	border: none;
-	color: #202242;
+	color: #8BC34A;
 	font-weight: 600;
 	line-height: 1.4em;
 	-webkit-appearance:none;
@@ -266,7 +266,7 @@ a.chat:hover{
 }
 .domain-Serach-bar-center{
 	position: relative;
-	background: #ffe13e;
+	background: #0288D1;
 	padding: 0.8em 1em;
 	width: 20%;
 	height: 54px;
@@ -275,7 +275,7 @@ a.chat:hover{
 	cursor:pointer;
 }
 .domain-Serach-bar-center ul li span{
-	background: #ffe13e;
+	background: #0288D1;
 	padding: 0.5em 0em;
 	display: block;
 	width: 100%;
@@ -297,7 +297,7 @@ a.chat:hover{
 .fleft{
 	text-align:center;
 	position:relative;
-	background:#ffe13e;
+	background:#0288D1;
 	display:block;
 	height:40px;
 }
@@ -310,7 +310,7 @@ a.chat:hover{
 	list-style:none;
 }
 .domain-Serach-bar-right input[type="submit"]{
-	background:#ffe13e;
+	background:#0288D1;
 	color:#FFF;
 	border:none;
 	padding:1em 0.712em;
@@ -341,7 +341,7 @@ a.chat:hover{
 .services-left{
 	float:left;
 	width:50%;
-	background:#202242;
+	background:#8BC34A;
 	padding:6em 0;
 }
 .services-left h2{
@@ -366,14 +366,14 @@ a.s-btn{
 	text-decoration:none;
 }
 a.s-btn:hover{
-	border:2px solid #ffe13e;
-	color:#ffe13e;
+	border:2px solid #0288D1;
+	color:#0288D1;
 }
 /*----- */
 .services-right{
 	float:left;
 	width:50%;
-	background:#ffe13e;
+	background:#0288D1;
 	padding:5.7em 0;
 }
 .services-right h2{
@@ -398,11 +398,11 @@ a.s-btn{
 	text-decoration:none;
 }
 .services-right a.s-btn:hover{
-	border:2px solid #202242;
-	color:#202242;
+	border:2px solid #8BC34A;
+	color:#8BC34A;
 }
 .services-right h3{
-	color: #202242;
+	color: #8BC34A;
 	font-size: 9em;
 	font-weight: bold;
 	margin: 0;
@@ -455,7 +455,7 @@ a.s-btn{
 }
 .features-grid h3{
 	font-family: 'Roboto Slab', serif;
-	color:#ffe13e;
+	color:#0288D1;
 	font-size:1.8em;
 }
 .features-grid p{
@@ -490,7 +490,7 @@ a.s-btn{
 	padding:5em 0 8em;
 }
 .clients-left h3{
-	color:#202242;
+	color:#8BC34A;
 	font-weight:bold;
 	font-size:1.8em;
 	margin:0;
@@ -548,7 +548,7 @@ a.s-btn{
 }
 /*------ pricing-plan -----*/
 .pricing-plan{
-	background:#202242;
+	background:#8BC34A;
 	padding:4em 0;
 }
 .pricing-plan-left h2{
@@ -574,8 +574,8 @@ a.s-btn{
 	width:30%;
 }
 a.price-btn{
-	background:#ffe13e;
-	color:#202242;
+	background:#0288D1;
+	color:#8BC34A;
 	padding:1.3em 2em;
 	font-weight:700;
 	border:3px solid #EEE;
@@ -584,7 +584,7 @@ a.price-btn{
 }
 a.price-btn:hover{
 	background:#FFF;
-	border-color:#ffe13e;
+	border-color:#0288D1;
 }
 .pricing-plan-right{
 	margin-top:1.5em;
@@ -625,7 +625,7 @@ a.price-btn:hover{
 	text-decoration: none;
 }
 .footer-right ul.footer-nav li a:hover{
-	color:#ffe13e;
+	color:#0288D1;
 }
 .footer-right h3{
 	color:#FFF;
@@ -670,7 +670,7 @@ a.to-top{
 	display:block;
 }
 a.to-top:hover{
-	color:#ffe13e;
+	color:#0288D1;
 	text-decoration:none;
 }
 .map-point{
@@ -692,7 +692,7 @@ a.to-top:hover{
 	text-decoration:none;
 }
 .map-point a:hover{
-	color:#ffe13e;
+	color:#0288D1;
 }
 .copy-right{
 	margin-top:5em;
@@ -707,7 +707,7 @@ a.to-top:hover{
 	text-decoration:none;
 }
 .copy-right p a:hover{
-	color:#ffe13e;
+	color:#0288D1;
 }
 /*----- About -----*/
 .header-section{
@@ -762,7 +762,7 @@ a.to-top:hover{
 	line-height: 1.7em;
 }
 .about-left-grids p a{
-	color:#ffe13e;
+	color:#0288D1;
 	text-decoration:none;
 }
 .about-right-grids{
@@ -823,7 +823,7 @@ a.to-top:hover{
 		text-decoration:none;
 }
 .pricing-table-grid ul li a:hover{
-	color:#ffe13e;
+	color:#0288D1;
 }
 .pricing-table-grid h3{
 	font-family: 'Roboto Slab', serif;
@@ -833,7 +833,7 @@ a.to-top:hover{
 	padding: 0;
 	padding: 1em 0;
 	display: block;
-	color: #202242;
+	color: #8BC34A;
 	text-transform: uppercase;
 	font-size: 1.5em;
 }
@@ -854,17 +854,17 @@ a.to-top:hover{
 	-ms-transform:scale(1.05);
 }
 .pricing-table-grid:hover{
-	border-color:#ffe13e;
+	border-color:#0288D1;
 }
 .pricing-table-grid:hover a,.pricing-table-grid:hover span{
-	border-color:#ffe13e;
+	border-color:#0288D1;
 }
 .pricing-table-grid:hover li span{
 	background:#2f3837;
 	color:#FFF;
 }
 .pricing-table-grid ul li span{
-	background:#ffe13e;
+	background:#0288D1;
 	padding:0.5em 0;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -872,7 +872,7 @@ a.to-top:hover{
 	-o-transition:0.5s all;
 }
 a.order-btn{
-	color:#202242;
+	color:#8BC34A;
 	padding:1.5em 0;
 	display:block;
 	text-align:center;
@@ -881,7 +881,7 @@ a.order-btn{
 	text-decoration:none;
 }
 a.order-btn:hover{
-	color:#ffe13e;
+	color:#0288D1;
 }
 .plans-head{
 	padding:0 0 2.2em 0;
@@ -933,7 +933,7 @@ a.order-btn:hover{
 	margin:0.5em 0 0 0;
 }
 .features-grid-right span{
-	color:#ffe13e;
+	color:#0288D1;
 }
 .h-features-grid{
 	padding: 1.5em 0;
@@ -961,7 +961,7 @@ a.order-btn:hover{
 	text-decoration:none;
 }
 .domain-grid-right span{
-	color: #ffe13e;
+	color: #0288D1;
 	line-height: 1.5em;
 	margin: 0 auto 0.5em auto;
 	display:block;
@@ -993,7 +993,7 @@ a.order-btn:hover{
 	font-weight:700;
 }
 .hosting-grid h2 span{
-	color:#ffe13e;
+	color:#0288D1;
 }
 .hosting-grid p{
 	font-size:2em;
@@ -1058,7 +1058,7 @@ a.order-btn:hover{
 	resize:none;
 }
 .contact-bottom-grid-right input[type="submit"]{
-	background:#202242;
+	background:#8BC34A;
 	color:#FFF;
 	font-family: 'Roboto Slab', serif;
 	border:none;
@@ -1074,7 +1074,7 @@ a.order-btn:hover{
 	-ms-transition:0.5s all;
 }
 .contact-bottom-grid-right input[type="submit"]:hover{
-	background:#ffe13e;
+	background:#0288D1;
 }
 /*----- Responsive-Design -----*/
 @media (max-width:1024px){
@@ -2193,7 +2193,7 @@ a.order-btn:hover{
 		font-size: 0.875em;
 	}
 	a.order-btn {
-		color: #202242;
+		color: #8BC34A;
 		padding: 1em 0;
 		font-size:1em;
 	}
