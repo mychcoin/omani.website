@@ -216,7 +216,7 @@ a.chat:hover{
 .banner{
 	background:url(../images/banner-bg.jpg) no-repeat 0px 0px;
 	background-size:cover;
-	min-height:680px;
+	min-height:500px;
 	position:relative;
 }
 .banner h1{
@@ -675,8 +675,8 @@ a.to-top:hover{
 }
 .map-point{
 	position: absolute;
-	bottom: 38%;
-	right: 32%;
+	bottom: 50%;
+	right: 37%;
 }
 .map-point a span{
 	width:42px;
