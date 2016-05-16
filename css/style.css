@@ -50,7 +50,7 @@ body a{
 }
 .top-nav ul li.active a,
 .top-nav ul li a:hover{
-	color:#FFCA28;
+	color:#FFA726;
 }
 .logo a{
 	display:block;
@@ -195,14 +195,14 @@ nav a#pull {
 	border-left:1px solid #EEE;
 }
 a.chat{
-	background:#FFCA28;
+	background:#FFA726;
 	color:#66BB6A;
 	padding:0.8em 1.5em;
 	font-weight:600;
 	text-decoration:none;
 }
 a.chat:hover{
-	color:#FFCA28;
+	color:#FFA726;
 	background:#66BB6A;
 }
 .contact-info-right h3{
@@ -266,7 +266,7 @@ a.chat:hover{
 }
 .domain-Serach-bar-center{
 	position: relative;
-	background: #FFCA28;
+	background: #FFA726;
 	padding: 0.8em 1em;
 	width: 20%;
 	height: 54px;
@@ -275,7 +275,7 @@ a.chat:hover{
 	cursor:pointer;
 }
 .domain-Serach-bar-center ul li span{
-	background: #FFCA28;
+	background: #FFA726;
 	padding: 0.5em 0em;
 	display: block;
 	width: 100%;
@@ -297,7 +297,7 @@ a.chat:hover{
 .fleft{
 	text-align:center;
 	position:relative;
-	background:#FFCA28;
+	background:#FFA726;
 	display:block;
 	height:40px;
 }
@@ -310,7 +310,7 @@ a.chat:hover{
 	list-style:none;
 }
 .domain-Serach-bar-right input[type="submit"]{
-	background:#FFCA28;
+	background:#FFA726;
 	color:#FFF;
 	border:none;
 	padding:1em 0.712em;
@@ -366,14 +366,14 @@ a.s-btn{
 	text-decoration:none;
 }
 a.s-btn:hover{
-	border:2px solid #FFCA28;
-	color:#FFCA28;
+	border:2px solid #FFA726;
+	color:#FFA726;
 }
 /*----- */
 .services-right{
 	float:left;
 	width:50%;
-	background:#FFCA28;
+	background:#FFA726;
 	padding:5.7em 0;
 }
 .services-right h2{
@@ -455,7 +455,7 @@ a.s-btn{
 }
 .features-grid h3{
 	font-family: 'Roboto Slab', serif;
-	color:#FFCA28;
+	color:#FFA726;
 	font-size:1.8em;
 }
 .features-grid p{
@@ -574,7 +574,7 @@ a.s-btn{
 	width:30%;
 }
 a.price-btn{
-	background:#FFCA28;
+	background:#FFA726;
 	color:#66BB6A;
 	padding:1.3em 2em;
 	font-weight:700;
@@ -584,7 +584,7 @@ a.price-btn{
 }
 a.price-btn:hover{
 	background:#FFF;
-	border-color:#FFCA28;
+	border-color:#FFA726;
 }
 .pricing-plan-right{
 	margin-top:1.5em;
@@ -625,7 +625,7 @@ a.price-btn:hover{
 	text-decoration: none;
 }
 .footer-right ul.footer-nav li a:hover{
-	color:#FFCA28;
+	color:#FFA726;
 }
 .footer-right h3{
 	color:#FFF;
@@ -670,7 +670,7 @@ a.to-top{
 	display:block;
 }
 a.to-top:hover{
-	color:#FFCA28;
+	color:#FFA726;
 	text-decoration:none;
 }
 .map-point{
@@ -692,7 +692,7 @@ a.to-top:hover{
 	text-decoration:none;
 }
 .map-point a:hover{
-	color:#FFCA28;
+	color:#FFA726;
 }
 .copy-right{
 	margin-top:5em;
@@ -707,7 +707,7 @@ a.to-top:hover{
 	text-decoration:none;
 }
 .copy-right p a:hover{
-	color:#FFCA28;
+	color:#FFA726;
 }
 /*----- About -----*/
 .header-section{
@@ -762,7 +762,7 @@ a.to-top:hover{
 	line-height: 1.7em;
 }
 .about-left-grids p a{
-	color:#FFCA28;
+	color:#FFA726;
 	text-decoration:none;
 }
 .about-right-grids{
@@ -823,7 +823,7 @@ a.to-top:hover{
 		text-decoration:none;
 }
 .pricing-table-grid ul li a:hover{
-	color:#FFCA28;
+	color:#FFA726;
 }
 .pricing-table-grid h3{
 	font-family: 'Roboto Slab', serif;
@@ -854,17 +854,17 @@ a.to-top:hover{
 	-ms-transform:scale(1.05);
 }
 .pricing-table-grid:hover{
-	border-color:#FFCA28;
+	border-color:#FFA726;
 }
 .pricing-table-grid:hover a,.pricing-table-grid:hover span{
-	border-color:#FFCA28;
+	border-color:#FFA726;
 }
 .pricing-table-grid:hover li span{
 	background:#2f3837;
 	color:#FFF;
 }
 .pricing-table-grid ul li span{
-	background:#FFCA28;
+	background:#FFA726;
 	padding:0.5em 0;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -881,7 +881,7 @@ a.order-btn{
 	text-decoration:none;
 }
 a.order-btn:hover{
-	color:#FFCA28;
+	color:#FFA726;
 }
 .plans-head{
 	padding:0 0 2.2em 0;
@@ -933,7 +933,7 @@ a.order-btn:hover{
 	margin:0.5em 0 0 0;
 }
 .features-grid-right span{
-	color:#FFCA28;
+	color:#FFA726;
 }
 .h-features-grid{
 	padding: 1.5em 0;
@@ -961,7 +961,7 @@ a.order-btn:hover{
 	text-decoration:none;
 }
 .domain-grid-right span{
-	color: #FFCA28;
+	color: #FFA726;
 	line-height: 1.5em;
 	margin: 0 auto 0.5em auto;
 	display:block;
@@ -993,7 +993,7 @@ a.order-btn:hover{
 	font-weight:700;
 }
 .hosting-grid h2 span{
-	color:#FFCA28;
+	color:#FFA726;
 }
 .hosting-grid p{
 	font-size:2em;
@@ -1074,7 +1074,7 @@ a.order-btn:hover{
 	-ms-transition:0.5s all;
 }
 .contact-bottom-grid-right input[type="submit"]:hover{
-	background:#FFCA28;
+	background:#FFA726;
 }
 /*----- Responsive-Design -----*/
 @media (max-width:1024px){
