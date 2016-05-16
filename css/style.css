@@ -1012,7 +1012,7 @@ a.order-btn:hover{
 }
 .contact-bottom-grid-left{
 	float:left;
-	width:40%;
+	width:50%;
 	padding:2em 0 0 0;
 }
 .contact-bottom-grid-left p{
@@ -1027,7 +1027,7 @@ a.order-btn:hover{
 }
 .contact-bottom-grid-right{
 	float:right;
-	width:58%;
+	width:50%;
 	padding:2em 0 0 0;
 }
 .text-fild{
