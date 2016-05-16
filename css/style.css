@@ -39,7 +39,7 @@ body a{
 .top-header{
 }
 .top-nav ul li a{
-	color: #8BC34A;
+	color: #66BB6A;
 	padding: 0.2em 1em;
 	font-size: 1.05em;
 	font-weight: 400;
@@ -176,7 +176,7 @@ nav a#pull {
 	border-left: 1px solid #EEE;
 }
 .contact-info p{
-	color: #8BC34A;
+	color: #66BB6A;
 	font-weight: 600;
 	font-size: 0.75em;
 	margin-bottom: 14px;
@@ -196,17 +196,17 @@ nav a#pull {
 }
 a.chat{
 	background:#0288D1;
-	color:#8BC34A;
+	color:#66BB6A;
 	padding:0.8em 1.5em;
 	font-weight:600;
 	text-decoration:none;
 }
 a.chat:hover{
 	color:#0288D1;
-	background:#8BC34A;
+	background:#66BB6A;
 }
 .contact-info-right h3{
-	color:#8BC34A;
+	color:#66BB6A;
 	font-family: 'Lato', sans-serif;
 	font-weight:700;
 	margin:0;
@@ -253,7 +253,7 @@ a.chat:hover{
 	width: 100%;
 	outline: none;
 	border: none;
-	color: #8BC34A;
+	color: #66BB6A;
 	font-weight: 600;
 	line-height: 1.4em;
 	-webkit-appearance:none;
@@ -341,7 +341,7 @@ a.chat:hover{
 .services-left{
 	float:left;
 	width:50%;
-	background:#8BC34A;
+	background:#66BB6A;
 	padding:6em 0;
 }
 .services-left h2{
@@ -398,11 +398,11 @@ a.s-btn{
 	text-decoration:none;
 }
 .services-right a.s-btn:hover{
-	border:2px solid #8BC34A;
-	color:#8BC34A;
+	border:2px solid #66BB6A;
+	color:#66BB6A;
 }
 .services-right h3{
-	color: #8BC34A;
+	color: #66BB6A;
 	font-size: 9em;
 	font-weight: bold;
 	margin: 0;
@@ -490,7 +490,7 @@ a.s-btn{
 	padding:5em 0 8em;
 }
 .clients-left h3{
-	color:#8BC34A;
+	color:#66BB6A;
 	font-weight:bold;
 	font-size:1.8em;
 	margin:0;
@@ -548,7 +548,7 @@ a.s-btn{
 }
 /*------ pricing-plan -----*/
 .pricing-plan{
-	background:#8BC34A;
+	background:#66BB6A;
 	padding:4em 0;
 }
 .pricing-plan-left h2{
@@ -575,7 +575,7 @@ a.s-btn{
 }
 a.price-btn{
 	background:#0288D1;
-	color:#8BC34A;
+	color:#66BB6A;
 	padding:1.3em 2em;
 	font-weight:700;
 	border:3px solid #EEE;
@@ -833,7 +833,7 @@ a.to-top:hover{
 	padding: 0;
 	padding: 1em 0;
 	display: block;
-	color: #8BC34A;
+	color: #66BB6A;
 	text-transform: uppercase;
 	font-size: 1.5em;
 }
@@ -872,7 +872,7 @@ a.to-top:hover{
 	-o-transition:0.5s all;
 }
 a.order-btn{
-	color:#8BC34A;
+	color:#66BB6A;
 	padding:1.5em 0;
 	display:block;
 	text-align:center;
@@ -1058,7 +1058,7 @@ a.order-btn:hover{
 	resize:none;
 }
 .contact-bottom-grid-right input[type="submit"]{
-	background:#8BC34A;
+	background:#66BB6A;
 	color:#FFF;
 	font-family: 'Roboto Slab', serif;
 	border:none;
@@ -2193,7 +2193,7 @@ a.order-btn:hover{
 		font-size: 0.875em;
 	}
 	a.order-btn {
-		color: #8BC34A;
+		color: #66BB6A;
 		padding: 1em 0;
 		font-size:1em;
 	}
